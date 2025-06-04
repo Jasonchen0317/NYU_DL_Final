@@ -1,6 +1,4 @@
-# NYU Deep Learning Final Project 
-
-## Breaking the Slant: Identifying and Categorizing Media Bias with AI
+# Breaking the Slant: Identifying and Categorizing Media Bias with AI
 
 Team:
 1. Rajath Reghunath
